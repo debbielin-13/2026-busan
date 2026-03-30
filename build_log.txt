@@ -1,0 +1,6 @@
+
+> 2026-busan@0.0.0 build
+> tsc && vite build
+
+src/App.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/hooks/useLocalStorage.ts(1,20): error TS6133: 'useEffect' is declared but its value is never read.
